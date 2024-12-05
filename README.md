@@ -1,5 +1,7 @@
 # C# 코딩 표준안
 
+[원문(https://github.com/thomasjacobsen-unity/Unity-Code-Style-Guide/tree/master)](https://github.com/thomasjacobsen-unity/Unity-Code-Style-Guide/tree/master)
+
 - Unity 프로젝트에서 사용할 스타일 가이드 예제입니다.
 - 팀의 선호도에 따라 규칙을 추가하거나 생략하세요.
 
