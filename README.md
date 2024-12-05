@@ -7,8 +7,10 @@
 // - Unity 프로젝트에서 사용할 스타일 가이드 예제입니다.
 // - 팀의 선호도에 따라 규칙을 추가하거나 생략하세요.
 // - 예제 스타일 가이드를 참고해 시작해보세요:
-// - Microsoft의 프레임워크 디자인 가이드는 여기 있습니다: https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/
-// - Google의 스타일 가이드는 여기 있습니다: https://google.github.io/styleguide/csharp-style.html
+// - Microsoft의 프레임워크 디자인 가이드:
+//   https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/
+// - Google의 스타일 가이드:
+//   https://google.github.io/styleguide/csharp-style.html
 
 // - 이러한 규칙을 조정하여 팀의 스타일 가이드를 구축하고 일관되게 적용하세요.
 // - 확신이 서지 않을 때는 팀의 스타일 가이드를 따르세요.
