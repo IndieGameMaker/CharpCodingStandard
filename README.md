@@ -1,6 +1,6 @@
 # CharpCodingStandard
 
-```
+```csharp
 // 스타일 시트 예제
 
 // 일반:
